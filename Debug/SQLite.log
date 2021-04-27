@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\asus\Desktop\SQLite\SQLite\clase.h(406,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\asus\Desktop\SQLite\SQLite\clase.h(469,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\asus\Desktop\SQLite\SQLite\clase.h(568,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\asus\Desktop\SQLite\SQLite\clase.h(606,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\asus\Desktop\SQLite\SQLite\clase.h(1716,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asus\Desktop\SQLite\SQLite\Source.cpp(93,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asus\Desktop\SQLite\SQLite\Source.cpp(131,21): warning C4018: '<': signed/unsigned mismatch
+  SQLite.vcxproj -> C:\Users\asus\Desktop\SQLite\Debug\SQLite.exe
